@@ -1,2 +1,4 @@
+feature1
+feature2
 hotfix1
 hotfix2
